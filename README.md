@@ -1,2 +1,19 @@
-# Excel-Student-Marks-Analysis
-Built an Excel-based Student Marks Analysis project using formulas like SUM, AVERAGE, MAX, MIN, IF, and Percentage Calculation to analyze student performance and generate results automatically based on conditions.
+# Excel Student Marks Analysis
+
+This project analyzes student performance data using Microsoft Excel.
+
+## Features
+- Total marks calculation
+- Percentage analysis
+- Automatic grade generation
+- Topper identification
+- Data visualization using charts
+
+## Tools Used
+- Microsoft Excel
+
+## Skills Practiced
+- Formulas
+- Charts
+- Conditional Formatting
+- Data Analysis
